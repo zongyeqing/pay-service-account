@@ -178,12 +178,13 @@
         <!-- dubbo required jars end -->
 
         <!-- 多线程测试工具 Begin -->
-        <dependency>
+       <!-- <dependency>
             <groupId>fakepath</groupId>
             <artifactId>groboutils-core</artifactId>
             <version>5</version>
             <scope>test</scope>
-        </dependency>
+        </dependency>-->
+
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
